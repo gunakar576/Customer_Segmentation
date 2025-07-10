@@ -11,7 +11,7 @@ The dataset contains customer information, typically including:
 -  Annual Income (k$)
 -  pending Score (1–100)
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - Python 3.x
 - pandas
@@ -20,7 +20,7 @@ The dataset contains customer information, typically including:
 - seaborn
 - scikit-learn
 
- ## Insights from Customer Segmentation
+ ##  🔍Insights from Customer Segmentation
  ### Cluster 1: Low Income, High Spending
 
 - Customers in this cluster have low annual income but high spending scores.
