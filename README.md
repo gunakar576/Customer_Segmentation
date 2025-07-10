@@ -19,6 +19,7 @@ The dataset contains customer information, typically including:
 - matplotlib
 - seaborn
 - scikit-learn
+  
 
  ##  🔍Insights from Customer Segmentation
  ### Cluster 1: Low Income, High Spending
