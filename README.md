@@ -28,7 +28,7 @@ The dataset contains customer information, typically including:
 - May be price-sensitive but value-driven.
 - Good candidates for discount campaigns or loyalty programs.
 
-  ###  Cluster 2: High Income, Low Spending
+###  Cluster 2: High Income, Low Spending
   - Customers with high annual income but low spending scores.
   - Possibly cautious or less engaged shoppers.
   - May require personalized engagement or premium services to boost activity.
